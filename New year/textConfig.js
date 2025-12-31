@@ -1,6 +1,6 @@
 const textConfig = {
   landing: {
-    title: "Hey Jigglypuff! 💕",
+    title: "Hey baccha💋! 💕",
     subtitle: "I Wanted to do something special for you, so I made something special just for you...",
     lastLine: "Click below to see what it is! ✨",
     button: "Open My Heart 💖",
@@ -33,8 +33,8 @@ I want you to know that you are the most precious person in my life. Every day w
     letter: {
       headerTitle: "A New Year Letter 💌",
       headerSubtitle: "Warm wishes for 2026",
-      letterHeaderTitle: "Dear Friend",
-      letterMessage: `Dear Friend,
+      letterHeaderTitle: "Dear love",
+      letterMessage: `Dear love,
 
   As the year turns, may your days be filled with laughter, love, and new adventures. May every dream you chase bring you closer to happiness and every moment be a memory worth cherishing.
 
@@ -144,7 +144,7 @@ I want you to know that you are the most precious person in my life. Every day w
       sendKissButton: "Send a Virtual Hug 🤗",
       dateLocale: "en-US",
       // Letter content
-      letterGreeting: "Dear Friend,",
+      letterGreeting: "Dear bala,",
       letterParagraphs: [
         "May 2026 bring you endless opportunities and beautiful moments.",
         "Celebrate every day, cherish every memory, and keep moving forward with hope.",
